@@ -1,5 +1,9 @@
 # vue-card
 
+## Efecto del componente
+
+![image](https://github.com/Herra310/Vue-card/blob/master/ejemplo.gif?raw=true)
+
 ## Project setup
 ```
 npm install
